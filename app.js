@@ -144,7 +144,7 @@ function mostrarMenu() {
     console.log("| 3  | Ver productos por categoría (Electrónica o Ropa)   |");
     console.log("| 4  | Buscar un producto                                 |");
     console.log("| 5  | Salir                                              |");
-    console.log("+----+---------------------------------------------------+");
+    console.log("+----+----------------------------------------------------+");
 }
 // Función principal para manejar el flujo del menú
 function iniciarAplicacion() {
